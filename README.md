@@ -1,0 +1,2 @@
+# django-partner
+django world
